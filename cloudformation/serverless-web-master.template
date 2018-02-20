@@ -9,7 +9,7 @@
 		},
 
 		"HostingBucket": {
-			"Description": "S3 Bucket name for where the website should be hosted",
+			"Description": "presales-test-bucket",
 			"Type": "String"
 		},
 
